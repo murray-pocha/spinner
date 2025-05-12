@@ -36,6 +36,7 @@ Make sure you're in the project folder, then run:
 
 ```bash
 node spinner2.js
+
 You’ll see the spinner animate in your terminal!
 
 To try the original version:
